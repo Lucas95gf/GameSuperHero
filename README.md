@@ -1,1 +1,1 @@
-# GameSuperHero_JAVA
+# Prepare-se para jogar o GameSuperHero! 
